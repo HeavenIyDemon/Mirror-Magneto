@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "repository": "https://github.com/HeavenIyDemon/Mirror-Magneto",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "1644666751:AAFemDAPBcNUaXRQFM75yR-Dd3C6lvkIczA",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "0AHdEjtoBXGTtUk9PVA/1-0kBza-tfYGvIKxaoQ9Ls2qFvLXJ3U3v",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "1528285120",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -49,7 +49,7 @@
       },
       "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "True",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
@@ -64,17 +64,17 @@
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "3975836",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "ef9798d15a58c54f730e92b665ae2030",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
         "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
-        "value": "",
+        "value": "bb73d0e7f423ec0b9426249bcbde74d8d49403a4657e9ee94ea585980043",
         "required": false
       },
       "MEGA_API_KEY": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "",
+        "value": "1BVtsOJUBu74OIbVjWgTK3tTcVnL9iGyFhi1vzQNPtg4vxnUpypmjWiPfzicvyu1K_p9cb6oukBTJWuOhEp0cGK0_7PHwdaNXepUERV4XqYcnTTidXxCgsg4XigONMRCElSItlSUo1CWEd4VzyeJc44NiB96RpHdssRjr_dQsspUYMyX5euPma4_2GmENPRwDCtXTOrolqVcbUlST-oqA7EMypDMofiQ8q_ix_mRoH3NAtkUaNBirWcWc4cnhE9WPB89oqA4RaxLcx_br5iIvVsPTyAoC6VFYAsq1jDZObmbmtavURQNxr9pzIYQSBlv-Y5KKRC26tr_wWc6v0a6D0kwFRg2TfWk=",
         "required": true
       }
     },
